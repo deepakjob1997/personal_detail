@@ -1,4 +1,10 @@
+Name
 dukhana
 sukhana
 rahul 
 parmod
+Address
+ghola
+sodepur
+agarpara
+belghariya
